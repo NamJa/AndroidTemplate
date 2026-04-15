@@ -1,0 +1,61 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+release/
+
+# Gradle
+.gradle/
+build/
+captures/
+.externalNativeBuild
+.cxx
+
+# Kotlin
+.kotlin/
+
+# IDE - IntelliJ / Android Studio
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# IDE - Eclipse
+.classpath
+.project
+.settings/
+
+# IDE - VSCode
+.vscode/
+
+# Local configuration
+local.properties
+
+# Crashlytics / Firebase
+google-services.json
+
+# Keystores
+*.jks
+*.keystore
+
+# Profiling
+*.hprof
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
